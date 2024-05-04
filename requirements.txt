@@ -1,0 +1,5 @@
+opencv-contrib-python==4.8.1.78
+mss==7.0.1
+numpy==1.21.6
+tensorboardX==2.6.2.2
+pynput==1.3.10
